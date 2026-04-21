@@ -128,6 +128,8 @@ The dataset contains 1000 customer records with the following features:
 * Interactive filters for detailed analysis
 
 ---
+<img width="886" height="536" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a5b0856c-6af4-425d-b116-a16ec3964eed" />
+
 
 
 
